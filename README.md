@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Autumn, Also known as TheVioletDev, based in Ohio. 
+
+I am currently diving deep into python and swift, with a passion for creating impactful software. My goal is to build detailed and structured business systems and software that optimize operations, as well as useful lifestyle apps that simplify everyday task for everyone - Including myself. 
+
+You can follow my coding Journey and insights on my [Blog](https://medium.com/@franklina0493), also titled TheVioletDev. 
+
+Outside of coding you can find me reading, watching anime with my sister, and working on my Etsy shop side hustle. 
+
 <!--
 **TheVioletDev/TheVioletDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
